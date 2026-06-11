@@ -119,7 +119,7 @@ Suitable for:
 
 ## 👤 Author
 
-**Your Name**  
+**Dudekula Upendra**  
 Database / SQL Project  
 
 ---
